@@ -2,7 +2,8 @@
 
 ## 👦💻 Um pouco sobre mim.
 <div>
-  <p> I am 26 years old, married and the father of Tiago and Manuela. My family is everything to me.
+  <p> I am 26 years old, married and the father of Tiago and Manuela. My family is everything to me. </p>
+  <p>
     I am currently a student of the Database course at FATEC in São José dos Campos. I am passionate about technology, computing, and software development. I have experience with technical support and service, I even like working with people. I feel motivated and grateful only to someone for the opportunity and to help, not in the scope or professional. My work has an emphasis on developments using agile methodologies and always with freedom of ideas at all times. Thus, some of my knowledge and studies, at the moment, are focused on Object Oriented Programming C#, VB, .NET Framework. 
   </p>
 </div>
