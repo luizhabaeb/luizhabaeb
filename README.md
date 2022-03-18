@@ -1,6 +1,6 @@
 ### Hi, there! My name is Luiz Fernando and actually I'm a C# / .NET Framework (6.0) Developer on Ericsson Telecommunications. (Brasil). 
 
-## 👦💻 Um pouco sobre mim.
+## 👦💻 About me.
 <div>
   <p> I am 26 years old, married and the father of Tiago and Manuela. My family is everything to me. </p>
   <p>
@@ -8,7 +8,7 @@
   </p>
 </div>
 
-## 🚀🔥 Minhas Tecnologias
+## 🚀🔥 My Knwoledges
 <div style="display: inline-block">
   <img align="center" alt="HTML5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -18,22 +18,22 @@
 </div><br>
 </div><br>
 
-## 🏆 Prêmios, Cursos e Certificações
+## 🏆 Courses and Certificates
 
 Descrição | Instituição | Ano | Tipo
 --------- | ----------- | --- | ----
-🏅 Estrutura e Funcionamento das Redes de Computadores | Coursera | 2021 | Curso
-🏅 Fundamentos do Suporte Técnico | Coursera | 2021 | Curso
-🏅 C# - Programação Orientada a Objetos + Projetos | Udemy | 2022 | Curso
+🏅 Structure and Functioning of Computer Networks  | Coursera | 2021 | Course
+🏅 Technical Support Fundamentals | Coursera | 2021 | Course
+🏅 C# - Object Oriented Programming + Projects | Udemy | 2022 | Course
 
 
-## Fale Comigo!
+## Contact Me!
 <div>
   <a href="https://api.whatsapp.com/send?phone=5512991103948&text=Olá%20,%2C%20 Luiz!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/luizhabaeb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
 
-## 🧾 Estatísticas GitHub
+## 🧾 GitHub Statistics
 <div align="center">
   <a href="https://github.com/luizhabaeb">
   <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=(seunickdogithub)&show_icons=true&theme=dark&include_all_commits=true&account_private=true"/>
