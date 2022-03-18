@@ -1,4 +1,4 @@
-### Olá, me chamo Luiz Fernando e, atualmente, sou estagiário em desenvolvimento interno na Ericsson. 
+### Olá, me chamo Luiz Fernando e, atualmente, sou Desenvolvedor em C# - .NET Framework (6.0) na Ericsson Telecomunicações (Brasil). 
 
 ## 👦💻 Um pouco sobre mim.
 <div>
@@ -11,7 +11,10 @@
 <div style="display: inline-block">
   <img align="center" alt="HTML5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="FIGMA" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="C#" height="30" src="https://static.cdnlogo.com/logos/c/27/c.svg" />
+  <img align="center" alt="Visual Basic" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1024px-VB.NET_Logo.svg.png" />
+  <img align="center" alt=".NET Framework" height="30" src="https://seeklogo.com/images/M/microsoft-net-logo-4D9DA1DB77-seeklogo.com.png" />
+</div><br>
 </div><br>
 
 ## 🏆 Prêmios, Cursos e Certificações
@@ -20,6 +23,8 @@ Descrição | Instituição | Ano | Tipo
 --------- | ----------- | --- | ----
 🏅 Estrutura e Funcionamento das Redes de Computadores | Coursera | 2021 | Curso
 🏅 Fundamentos do Suporte Técnico | Coursera | 2021 | Curso
+🏅 C# - Programação Orientada a Objetos + Projetos | Udemy | 2022 | Curso
+
 
 ## Fale Comigo!
 <div>
