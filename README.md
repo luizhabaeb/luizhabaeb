@@ -1,10 +1,10 @@
-### Olá, me chamo Luiz Fernando e, atualmente, sou Desenvolvedor em C# - .NET Framework (6.0) na Ericsson Telecomunicações (Brasil). 
+### Hi, there! My name is Luiz Fernando and actually I'm a C# / .NET Framework (6.0) Developer on Ericsson Telecommunications. (Brasil). 
 
 ## 👦💻 Um pouco sobre mim.
 <div>
-  <p> Atualmente, sou aluno do curso de Banco de Dados na FATEC em São José dos Campos. Sou entusiasta da tecnologia, computação, e, principalmente, desenvolvimento em Front End. Tenho experiência com suporte técnico e atendimento, inclusive, gosto de trabalhar com pessoas. Me sinto motivado e grato só de ter a oportunidade e capacidade de ajudar alguém, seja no âmbito profissional ou social. Meu trabalho possui enfâse em desenvolvimentos utilizando metodologias ágeis e sempre com liberdade de ideias junto à todo o time. Dessa forma, alguns dos meus conhecimentos e estudos, no momento, são voltados para HTML5, CSS3, Angular, C#, VBNet e Oracle.
-    
-    Tenho 26 anos, sou casado e pai do Tiago e da Manuela, apaixonado pela minha família. </p>
+  <p> I am 26 years old, married and the father of Tiago and Manuela. My family is everything to me.
+    I am currently a student of the Database course at FATEC in São José dos Campos. I am passionate about technology, computing, and software development. I have experience with technical support and service, I even like working with people. I feel motivated and grateful only to someone for the opportunity and to help, not in the scope or professional. My work has an emphasis on developments using agile methodologies and always with freedom of ideas at all times. Thus, some of my knowledge and studies, at the moment, are focused on Object Oriented Programming C#, VB, .NET Framework. 
+  </p>
 </div>
 
 ## 🚀🔥 Minhas Tecnologias
