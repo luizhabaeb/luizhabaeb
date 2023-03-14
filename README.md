@@ -29,6 +29,12 @@ Descrição | Instituição | Ano | Tipo
 🏅 C# - Object Oriented Programming + Projects | Udemy | 2022 | Course
 
 
+## 🌐 Websites I've developed (Front-End)
+
+- https://deployux.com/diagnostico-ux-ui/
+- https://deployux.com/dstrava-teste/
+- https://deployux.com/destravando-sua-carreira-ui-designer/
+
 ## Contact Me!
 <div>
   <a href="https://api.whatsapp.com/send?phone=5512991103948&text=Olá Luiz!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
