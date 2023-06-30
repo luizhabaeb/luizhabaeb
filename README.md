@@ -34,6 +34,15 @@ Descrição | Instituição | Ano | Tipo
 - https://deployux.com/diagnostico-ux-ui/
 - https://deployux.com/dstrava-teste/
 - https://deployux.com/destravando-sua-carreira-ui-designer/
+- https://www.deployux.com (Webflow)
+- https://club.deployux.com/ux-club/ (HTML, CSS, JS)
+- https://club.deployux.com/dstrava-ui-design-figma/ (HTML, CSS, JS)
+- https://etrracing.com (HTML, CSS, JS)
+- https://www.antiqclothing.com.br (WIX - Final Phase - bells and whistles)
+- https://diamondpremios.com.br (WordPress)
+- https://mydoseapp.com (HTML, CSS, JS - Final Phase)
+- https://claudircalipo.adv.br (HTML, CSS, JS)
+
 
 ## Contact Me!
 <div>
